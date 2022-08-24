@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "ADMotorTests/lib/googletest-main",
+		"source" : "ADMotorTests/lib/googletest-main"
+	}
+}

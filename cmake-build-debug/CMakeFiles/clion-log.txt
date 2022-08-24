@@ -1,0 +1,24 @@
+C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/ninja/win/ninja.exe -G Ninja -S D:\PROGRAMMATION\C++Project\ADMotor -B D:\PROGRAMMATION\C++Project\ADMotor\cmake-build-debug
+start foreach
+-- file found ../../src/Component/ADComponent.cpp
+-- file found ../../src/ADMotor/ADWindow.cpp
+-- file found ../../src/ADMotor/ADManagerComponent.cpp
+-- file found ../../src/ADMotor/ADComposit.cpp
+-- file found ../../src/ADMotor/ADObject.cpp
+-- file found ../../src/ADMotor/ADManagerObject.cpp
+-- file found ../../src/ADMotor/ADManagerWindow.cpp
+-- file found ../../src/ADMotor/ADApplication.cpp
+end foreach
+start foreach
+-- file found ../../src/Component/ADComponent.cpp
+-- file found ../../src/ADMotor/ADWindow.cpp
+-- file found ../../src/ADMotor/ADManagerComponent.cpp
+-- file found ../../src/ADMotor/ADComposit.cpp
+-- file found ../../src/ADMotor/ADObject.cpp
+-- file found ../../src/ADMotor/ADManagerObject.cpp
+-- file found ../../src/ADMotor/ADManagerWindow.cpp
+-- file found ../../src/ADMotor/ADApplication.cpp
+end foreach
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug
