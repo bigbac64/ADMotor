@@ -147,9 +147,7 @@ int ADWindow::getMode() const {
 /**
  * mise à jour des objets et du rendu de la fenetre
  **********************************************************************************************************************/
-void ADWindow::update() {
-    ADManagerObject::update();
-
+void ADWindow::render(SDL_Renderer * rend) {
     if(renderer != nullptr)
         ADManagerObject::render(renderer);
 

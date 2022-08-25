@@ -26,7 +26,7 @@ public:
     void init() override;
     void update() override;
     void event(SDL_Event *) override;
-    void render(SDL_Renderer *) override {}
+    void render(SDL_Renderer *) override;
     void close() override;
 
     void destroyManager();

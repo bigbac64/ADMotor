@@ -35,7 +35,7 @@ public:
 
     void init() override;
     void event(SDL_Event *) override;
-    void update() override;
+    void render(SDL_Renderer *) override;
     void close() override;
     void rename();
 

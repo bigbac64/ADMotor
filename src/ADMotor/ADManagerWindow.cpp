@@ -115,6 +115,11 @@ void ADManagerWindow::event(SDL_Event *evt) {
     }
 }
 
+void ADManagerWindow::render(SDL_Renderer *rend) {
+    for (auto it : windows) {
+        it.second->render(nullptr);
+    }
+}
 
 
 
