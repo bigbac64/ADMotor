@@ -7,6 +7,13 @@
 
 #include "ADManagerWindow.h"
 
+/**
+ * ADApplication permet d'executer le moteur
+ *
+ * intègre un modèle de singleton pour qu’elle puissent être accessible de n’importe où et être instancié qu’une seul fois par lancement,
+ * ATTENTION il faut penser a delete l’instance a la fin du programme
+ *
+ */
 class ADApplication : public ADManagerWindow{
 private:
     int fpsUpdate;

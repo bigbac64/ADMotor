@@ -13,8 +13,8 @@ ADApplication::ADApplication() {
 
 /**
  *
- * @return l'instance de application moteur
- */
+ * @return l'instance de l'application moteur
+ **********************************************************************************************************************/
 ADApplication* ADApplication::getApplication() {
     if (instance == nullptr)
         instance = new ADApplication();
@@ -25,7 +25,7 @@ ADApplication* ADApplication::getApplication() {
 
 /**
  * démarre la boucle infini du moteur si au moins une fenetre existe
- */
+ **********************************************************************************************************************/
 void ADApplication::run() {
     isRunning = true;
 
@@ -79,32 +79,53 @@ void ADApplication::run() {
     }
 }
 
-ADApplication::~ADApplication() {
-    instance = nullptr;
-    cout << "ADApplication deleted" << endl;
-}
-
+/**
+ *
+ * @param fps definit le nombre de fps que la methode update seras execute
+ **********************************************************************************************************************/
 void ADApplication::setFpsUpdate(int fps) {
     if(fps > 0)
         fpsUpdate = fps;
 }
 
+/**
+ *
+ * @return le nombre de fps que la methode update seras execute
+ **********************************************************************************************************************/
 int ADApplication::getFpsUpdate() const {
     return fpsUpdate;
 }
 
+/**
+ *
+ * @param fps definit le nombre de fps que la methode render seras execute
+ **********************************************************************************************************************/
 void ADApplication::setFpsRender(int fps) {
     if(fps > 0)
         fpsRender = fps;
 }
 
+/**
+ *
+ * @return le nombre de fps que la methode render seras execute
+ **********************************************************************************************************************/
 int ADApplication::getFpsRender() const {
     return fpsRender;
 }
 
+/**
+ * converti une valeur fps en ms
+ * @param fps la valeur a convertir
+ * @return les fps converti en ms
+ **********************************************************************************************************************/
 int ADApplication::fpsToMs(int fps) {
     return 1000/fps;
 }
 
+
+ADApplication::~ADApplication() {
+    instance = nullptr;
+    cout << "ADApplication deleted" << endl;
+}
 
 

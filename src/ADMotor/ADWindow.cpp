@@ -174,12 +174,11 @@ void ADWindow::rename() {
         num = 1;
         title = title + " " + to_string(num);
     }
-
-
 }
 
 /**
- * detruit correctement les éléments de la fenetre SDL
+ * detruit correctement les éléments de la fenetre SDL,
+ * si la fenêtre provient d’un manageur de fenêtre il est déconseillé d’appeler cette méthode
  **********************************************************************************************************************/
 void ADWindow::destroyWindow() {
     if(renderer != nullptr)

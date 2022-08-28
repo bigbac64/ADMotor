@@ -24,9 +24,9 @@ set(SDL2_LIB_DIR "D:/PROGRAMMATION/Library/SDL2-2.0.22/lib/x64")
 include_directories(${SDL2_INCLUDE_DIR})
 link_directories(${SDL2_LIB_DIR})
 
-set(HEADER header/Component/ADComponent.h header/ADMotor/ADWindow.h header/ADMotor/ADManagerComponent.h header/ADMotor/ADComposit.h header/ADMotor/ADObject.h header/ADMotor/ADManagerObject.h header/ADMotor/ADManagerWindow.h header/ADMotor/ADApplication.h)
+set(HEADER header/Component/ADComponent.h header/ADMotor/ADWindow.h header/ADMotor/ADManagerComponent.h header/ADMotor/ADComposit.h header/ADMotor/ADObject.h header/ADMotor/ADManagerObject.h header/ADMotor/ADManagerWindow.h header/ADMotor/ADApplication.h header/Component/ADTransform.h header/Structure/Point3D.h)
 
-set(SOURCE src/Component/ADComponent.cpp src/ADMotor/ADWindow.cpp src/ADMotor/ADManagerComponent.cpp src/ADMotor/ADComposit.cpp src/ADMotor/ADObject.cpp src/ADMotor/ADManagerObject.cpp src/ADMotor/ADManagerWindow.cpp src/ADMotor/ADApplication.cpp)
+set(SOURCE src/Component/ADComponent.cpp src/ADMotor/ADWindow.cpp src/ADMotor/ADManagerComponent.cpp src/ADMotor/ADComposit.cpp src/ADMotor/ADObject.cpp src/ADMotor/ADManagerObject.cpp src/ADMotor/ADManagerWindow.cpp src/ADMotor/ADApplication.cpp src/Component/ADTransform.cpp)
 
 add_executable(ADMotor ${HEADER} ${SOURCE} main.cpp)
 

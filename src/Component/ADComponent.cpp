@@ -39,7 +39,7 @@ vector<string> ADComponent::getDependenciesComponent() const{
  * destructeur du composant
  */
 ADComponent::~ADComponent() {
-    cout << "Component destroyManager" << endl;
+    cout << "Component destroy" << endl;
     dependencies.clear();
 }
 

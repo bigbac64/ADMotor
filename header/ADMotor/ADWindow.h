@@ -12,6 +12,10 @@
 #include <SDL.h>
 #include "ADManagerObject.h"
 
+/**
+ * les fenêtre SDL sont gérer par la classe ADWindow,
+ * chaque fenêtre gère les objets de la scène
+ */
 class ADWindow : public ADManagerObject{
 private:
     string        title;
