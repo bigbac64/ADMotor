@@ -8,7 +8,7 @@
 #include "ADComponent.h"
 #include "Structure/Point3D.h"
 
-class ADTransformTest: public ADComponent{
+class ADTransform: public ADComponent{
 private:
     Point3D position;
     Point3D scale;

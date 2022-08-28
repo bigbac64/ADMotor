@@ -7,7 +7,7 @@
  * modifie la position d'un objet
  * @param pos position en point x, y, z
  **********************************************************************************************************************/
-void ADTransformTest::setPostion(Point3D pos) {
+void ADTransform::setPostion(Point3D pos) {
     position = pos;
 }
 
@@ -15,7 +15,7 @@ void ADTransformTest::setPostion(Point3D pos) {
  *
  * @return la position d'un objet
  **********************************************************************************************************************/
-Point3D ADTransformTest::getPostion() {
+Point3D ADTransform::getPostion() {
     return position;
 }
 
@@ -23,7 +23,7 @@ Point3D ADTransformTest::getPostion() {
  * modifie la taille d'un objet
  * @param sca taille en point x, y, z
  **********************************************************************************************************************/
-void ADTransformTest::setScale(Point3D sca) {
+void ADTransform::setScale(Point3D sca) {
     scale = sca;
 }
 
@@ -31,7 +31,7 @@ void ADTransformTest::setScale(Point3D sca) {
  *
  * @return la taille d'un objet
  **********************************************************************************************************************/
-Point3D ADTransformTest::getScale() {
+Point3D ADTransform::getScale() {
     return scale;
 }
 
@@ -39,7 +39,7 @@ Point3D ADTransformTest::getScale() {
  * modifie la rotation d'un objet
  * @param rot rotation en point x, y z
  **********************************************************************************************************************/
-void ADTransformTest::setRotation(Point3D rot) {
+void ADTransform::setRotation(Point3D rot) {
     rotation = rot;
 }
 
@@ -47,21 +47,21 @@ void ADTransformTest::setRotation(Point3D rot) {
  *
  * @return la rotation d'un objet
  **********************************************************************************************************************/
-Point3D ADTransformTest::getRotation() {
+Point3D ADTransform::getRotation() {
     return rotation;
 }
 
 /**
  * replace tous les points à zéro
  **********************************************************************************************************************/
-void ADTransformTest::reset() {
+void ADTransform::reset() {
     position = Point3D{0,0,0};
     scale = Point3D{0,0,0};
     rotation = Point3D{0,0,0};
 }
 
 
-void ADTransformTest::init() {
+void ADTransform::init() {
     reset();
 }
 

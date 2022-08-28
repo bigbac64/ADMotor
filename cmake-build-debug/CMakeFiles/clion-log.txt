@@ -9,6 +9,7 @@ start foreach
 -- file found ../../src/ADMotor/ADManagerWindow.cpp
 -- file found ../../src/ADMotor/ADApplication.cpp
 -- file found ../../src/Component/ADTransform.cpp
+-- file found ../../src/Component/ADSprite.cpp
 end foreach
 start foreach
 -- file found ../../src/Component/ADComponent.cpp
@@ -20,6 +21,7 @@ start foreach
 -- file found ../../src/ADMotor/ADManagerWindow.cpp
 -- file found ../../src/ADMotor/ADApplication.cpp
 -- file found ../../src/Component/ADTransform.cpp
+-- file found ../../src/Component/ADSprite.cpp
 end foreach
 -- Configuring done
 -- Generating done

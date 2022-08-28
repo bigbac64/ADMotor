@@ -112,6 +112,13 @@ build CMakeFiles/ADMotor.dir/src/Component/ADTransform.cpp.obj: CXX_COMPILER__AD
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\Component
 
+build CMakeFiles/ADMotor.dir/src/Component/ADSprite.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADSprite.cpp || cmake_object_order_depends_target_ADMotor
+  DEP_FILE = CMakeFiles\ADMotor.dir\src\Component\ADSprite.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  OBJECT_DIR = CMakeFiles\ADMotor.dir
+  OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\Component
+
 build CMakeFiles/ADMotor.dir/main.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/main.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
@@ -127,7 +134,7 @@ build CMakeFiles/ADMotor.dir/main.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGR
 #############################################
 # Link the executable ADMotor.exe
 
-build ADMotor.exe: CXX_EXECUTABLE_LINKER__ADMotor_Debug CMakeFiles/ADMotor.dir/src/Component/ADComponent.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADWindow.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerComponent.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADComposit.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADObject.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerObject.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerWindow.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADApplication.cpp.obj CMakeFiles/ADMotor.dir/src/Component/ADTransform.cpp.obj CMakeFiles/ADMotor.dir/main.cpp.obj
+build ADMotor.exe: CXX_EXECUTABLE_LINKER__ADMotor_Debug CMakeFiles/ADMotor.dir/src/Component/ADComponent.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADWindow.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerComponent.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADComposit.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADObject.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerObject.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerWindow.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADApplication.cpp.obj CMakeFiles/ADMotor.dir/src/Component/ADTransform.cpp.obj CMakeFiles/ADMotor.dir/src/Component/ADSprite.cpp.obj CMakeFiles/ADMotor.dir/main.cpp.obj
   FLAGS = -g
   LINK_FLAGS = -static
   LINK_LIBRARIES = -lSDL2main  -lSDL2  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -766,6 +773,13 @@ build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADTra
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\Component
 
+build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADSprite.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADSprite.cpp || cmake_object_order_depends_target_runADMotorTest
+  DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\Component\ADSprite.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
+  OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\Component
+
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADComponentTest.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/tests/ADComponentTest.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\ADComponentTest.cpp.obj.d
   FLAGS = -g -std=gnu++14
@@ -809,7 +823,7 @@ build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADTransformTest.cpp.obj: 
 #############################################
 # Link the executable ADMotorTests\tests\runADMotorTest.exe
 
-build ADMotorTests/tests/runADMotorTest.exe: CXX_EXECUTABLE_LINKER__runADMotorTest_Debug ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADComponent.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADObjectTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADWindow.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerComponent.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADComposit.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADObject.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerObject.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerWindow.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADApplication.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADTransform.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADComponentTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADManagerComponentTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADManagerObjectTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/RandomTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADTransformTest.cpp.obj | lib/libgtest.a lib/libgtest_main.a lib/libgtest.a || lib/libgtest.a lib/libgtest_main.a
+build ADMotorTests/tests/runADMotorTest.exe: CXX_EXECUTABLE_LINKER__runADMotorTest_Debug ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADComponent.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADObjectTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADWindow.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerComponent.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADComposit.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADObject.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerObject.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerWindow.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADApplication.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADTransform.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADSprite.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADComponentTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADManagerComponentTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADManagerObjectTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/RandomTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADTransformTest.cpp.obj | lib/libgtest.a lib/libgtest_main.a lib/libgtest.a || lib/libgtest.a lib/libgtest_main.a
   FLAGS = -g
   LINK_FLAGS = -static
   LINK_LIBRARIES = lib/libgtest.a  lib/libgtest_main.a  -lSDL2main  -lSDL2  lib/libgtest.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -970,6 +984,13 @@ build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/A
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\Component
 
+build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADSprite.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADSprite.cpp || cmake_object_order_depends_target_runADMotorUITest
+  DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\Component\ADSprite.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
+  OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\Component
+
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/SDLWindowTest.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/UITests/SDLWindowTest.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\SDLWindowTest.cpp.obj.d
   FLAGS = -g -std=gnu++14
@@ -985,7 +1006,7 @@ build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/SDLWindowTest.cpp.obj
 #############################################
 # Link the executable ADMotorTests\UITests\runADMotorUITest.exe
 
-build ADMotorTests/UITests/runADMotorUITest.exe: CXX_EXECUTABLE_LINKER__runADMotorUITest_Debug ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/main.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADComponent.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADWindow.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerComponent.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADComposit.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADObject.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerObject.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerWindow.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADApplication.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADTransform.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/SDLWindowTest.cpp.obj
+build ADMotorTests/UITests/runADMotorUITest.exe: CXX_EXECUTABLE_LINKER__runADMotorUITest_Debug ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/main.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADComponent.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADWindow.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerComponent.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADComposit.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADObject.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerObject.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerWindow.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADApplication.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADTransform.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADSprite.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/SDLWindowTest.cpp.obj
   FLAGS = -g
   LINK_FLAGS = -static
   LINK_LIBRARIES = -lSDL2main  -lSDL2  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
