@@ -52,77 +52,77 @@ build cmake_object_order_depends_target_ADMotor: phony || CMakeFiles/ADMotor.dir
 build CMakeFiles/ADMotor.dir/src/Component/ADComponent.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADComponent.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\Component\ADComponent.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\Component
 
 build CMakeFiles/ADMotor.dir/src/ADMotor/ADWindow.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADWindow.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\ADMotor\ADWindow.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\ADMotor
 
 build CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerComponent.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADManagerComponent.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\ADMotor\ADManagerComponent.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\ADMotor
 
 build CMakeFiles/ADMotor.dir/src/ADMotor/ADComposit.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADComposit.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\ADMotor\ADComposit.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\ADMotor
 
 build CMakeFiles/ADMotor.dir/src/ADMotor/ADObject.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADObject.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\ADMotor\ADObject.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\ADMotor
 
 build CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerObject.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADManagerObject.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\ADMotor\ADManagerObject.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\ADMotor
 
 build CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerWindow.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADManagerWindow.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\ADMotor\ADManagerWindow.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\ADMotor
 
 build CMakeFiles/ADMotor.dir/src/ADMotor/ADApplication.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADApplication.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\ADMotor\ADApplication.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\ADMotor
 
 build CMakeFiles/ADMotor.dir/src/Component/ADTransform.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADTransform.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\Component\ADTransform.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\Component
 
 build CMakeFiles/ADMotor.dir/src/Component/ADSprite.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADSprite.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\src\Component\ADSprite.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir\src\Component
 
 build CMakeFiles/ADMotor.dir/main.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGRAMMATION/C++Project/ADMotor/main.cpp || cmake_object_order_depends_target_ADMotor
   DEP_FILE = CMakeFiles\ADMotor.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   OBJECT_FILE_DIR = CMakeFiles\ADMotor.dir
 
@@ -137,8 +137,8 @@ build CMakeFiles/ADMotor.dir/main.cpp.obj: CXX_COMPILER__ADMotor_Debug D$:/PROGR
 build ADMotor.exe: CXX_EXECUTABLE_LINKER__ADMotor_Debug CMakeFiles/ADMotor.dir/src/Component/ADComponent.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADWindow.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerComponent.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADComposit.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADObject.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerObject.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADManagerWindow.cpp.obj CMakeFiles/ADMotor.dir/src/ADMotor/ADApplication.cpp.obj CMakeFiles/ADMotor.dir/src/Component/ADTransform.cpp.obj CMakeFiles/ADMotor.dir/src/Component/ADSprite.cpp.obj CMakeFiles/ADMotor.dir/main.cpp.obj
   FLAGS = -g
   LINK_FLAGS = -static
-  LINK_LIBRARIES = -lSDL2main  -lSDL2  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  LINK_PATH = -LD:/PROGRAMMATION/Library/SDL2-2.0.22/lib/x64
+  LINK_LIBRARIES = -lSDL2main  -lSDL2_image  -lSDL2  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  LINK_PATH = -LD:/PROGRAMMATION/Library/SDL2-2.24.0/lib/x64   -LD:/PROGRAMMATION/Library/SDL2_image-2.6.2/lib/x64
   OBJECT_DIR = CMakeFiles\ADMotor.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
@@ -280,6 +280,76 @@ build header/CMakeFiles/install/strip.util: CUSTOM_COMMAND header/all
   restat = 1
 
 build header/install/strip: phony header/CMakeFiles/install/strip.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/PROGRAMMATION/C++Project/ADMotor/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build sprites/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\PROGRAMMATION\C++Project\ADMotor\cmake-build-debug\sprites && C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build sprites/edit_cache: phony sprites/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build sprites/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\PROGRAMMATION\C++Project\ADMotor\cmake-build-debug\sprites && C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\PROGRAMMATION\C++Project\ADMotor -BD:\PROGRAMMATION\C++Project\ADMotor\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build sprites/rebuild_cache: phony sprites/CMakeFiles/rebuild_cache.util
+
+
+#############################################
+# Utility command for list_install_components
+
+build sprites/list_install_components: phony
+
+
+#############################################
+# Utility command for install
+
+build sprites/CMakeFiles/install.util: CUSTOM_COMMAND sprites/all
+  COMMAND = cmd.exe /C "cd /D D:\PROGRAMMATION\C++Project\ADMotor\cmake-build-debug\sprites && C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -P cmake_install.cmake"
+  DESC = Install the project...
+  pool = console
+  restat = 1
+
+build sprites/install: phony sprites/CMakeFiles/install.util
+
+
+#############################################
+# Utility command for install/local
+
+build sprites/CMakeFiles/install/local.util: CUSTOM_COMMAND sprites/all
+  COMMAND = cmd.exe /C "cd /D D:\PROGRAMMATION\C++Project\ADMotor\cmake-build-debug\sprites && C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  DESC = Installing only the local directory...
+  pool = console
+  restat = 1
+
+build sprites/install/local: phony sprites/CMakeFiles/install/local.util
+
+
+#############################################
+# Utility command for install/strip
+
+build sprites/CMakeFiles/install/strip.util: CUSTOM_COMMAND sprites/all
+  COMMAND = cmd.exe /C "cd /D D:\PROGRAMMATION\C++Project\ADMotor\cmake-build-debug\sprites && C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.3739.54\bin\cmake\win\bin\cmake.exe -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  DESC = Installing the project stripped...
+  pool = console
+  restat = 1
+
+build sprites/install/strip: phony sprites/CMakeFiles/install/strip.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
@@ -438,7 +508,7 @@ build cmake_object_order_depends_target_gmock: phony || cmake_object_order_depen
 build ADMotorTests/lib/googletest-main/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: CXX_COMPILER__gmock_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock/src/gmock-all.cc || cmake_object_order_depends_target_gmock
   DEP_FILE = ADMotorTests\lib\googletest-main\googlemock\CMakeFiles\gmock.dir\src\gmock-all.cc.obj.d
   FLAGS = -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -ID:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock/include -ID:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -ID:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock/include -ID:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\lib\googletest-main\googlemock\CMakeFiles\gmock.dir
   OBJECT_FILE_DIR = ADMotorTests\lib\googletest-main\googlemock\CMakeFiles\gmock.dir\src
 
@@ -470,7 +540,7 @@ build cmake_object_order_depends_target_gmock_main: phony || cmake_object_order_
 build ADMotorTests/lib/googletest-main/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj: CXX_COMPILER__gmock_main_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock/src/gmock_main.cc || cmake_object_order_depends_target_gmock_main
   DEP_FILE = ADMotorTests\lib\googletest-main\googlemock\CMakeFiles\gmock_main.dir\src\gmock_main.cc.obj.d
   FLAGS = -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googlemock -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\lib\googletest-main\googlemock\CMakeFiles\gmock_main.dir
   OBJECT_FILE_DIR = ADMotorTests\lib\googletest-main\googlemock\CMakeFiles\gmock_main.dir\src
 
@@ -572,7 +642,7 @@ build cmake_object_order_depends_target_gtest: phony || ADMotorTests/lib/googlet
 build ADMotorTests/lib/googletest-main/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj: CXX_COMPILER__gtest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/src/gtest-all.cc || cmake_object_order_depends_target_gtest
   DEP_FILE = ADMotorTests\lib\googletest-main\googletest\CMakeFiles\gtest.dir\src\gtest-all.cc.obj.d
   FLAGS = -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -ID:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -ID:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -ID:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -ID:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\lib\googletest-main\googletest\CMakeFiles\gtest.dir
   OBJECT_FILE_DIR = ADMotorTests\lib\googletest-main\googletest\CMakeFiles\gtest.dir\src
 
@@ -604,7 +674,7 @@ build cmake_object_order_depends_target_gtest_main: phony || cmake_object_order_
 build ADMotorTests/lib/googletest-main/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj: CXX_COMPILER__gtest_main_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/src/gtest_main.cc || cmake_object_order_depends_target_gtest_main
   DEP_FILE = ADMotorTests\lib\googletest-main\googletest\CMakeFiles\gtest_main.dir\src\gtest_main.cc.obj.d
   FLAGS = -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\lib\googletest-main\googletest\CMakeFiles\gtest_main.dir
   OBJECT_FILE_DIR = ADMotorTests\lib\googletest-main\googletest\CMakeFiles\gtest_main.dir\src
 
@@ -706,112 +776,112 @@ build cmake_object_order_depends_target_runADMotorTest: phony || cmake_object_or
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADComponent.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADComponent.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\Component\ADComponent.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\Component
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADObjectTest.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/tests/ADObjectTest.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\ADObjectTest.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADWindow.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADWindow.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor\ADWindow.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerComponent.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADManagerComponent.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor\ADManagerComponent.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADComposit.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADComposit.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor\ADComposit.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADObject.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADObject.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor\ADObject.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerObject.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADManagerObject.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor\ADManagerObject.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerWindow.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADManagerWindow.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor\ADManagerWindow.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADApplication.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADApplication.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor\ADApplication.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\ADMotor
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADTransform.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADTransform.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\Component\ADTransform.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\Component
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADSprite.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADSprite.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\Component\ADSprite.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\__\__\src\Component
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADComponentTest.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/tests/ADComponentTest.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\ADComponentTest.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADManagerComponentTest.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/tests/ADManagerComponentTest.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\ADManagerComponentTest.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADManagerObjectTest.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/tests/ADManagerObjectTest.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\ADManagerObjectTest.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/RandomTest.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/tests/RandomTest.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\RandomTest.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
 
 build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADTransformTest.cpp.obj: CXX_COMPILER__runADMotorTest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/tests/ADTransformTest.cpp || cmake_object_order_depends_target_runADMotorTest
   DEP_FILE = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir\ADTransformTest.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest/include -isystem D:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/lib/googletest-main/googletest
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   OBJECT_FILE_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
 
@@ -826,8 +896,8 @@ build ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADTransformTest.cpp.obj: 
 build ADMotorTests/tests/runADMotorTest.exe: CXX_EXECUTABLE_LINKER__runADMotorTest_Debug ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADComponent.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADObjectTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADWindow.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerComponent.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADComposit.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADObject.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerObject.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADManagerWindow.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/ADMotor/ADApplication.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADTransform.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/__/__/src/Component/ADSprite.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADComponentTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADManagerComponentTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADManagerObjectTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/RandomTest.cpp.obj ADMotorTests/tests/CMakeFiles/runADMotorTest.dir/ADTransformTest.cpp.obj | lib/libgtest.a lib/libgtest_main.a lib/libgtest.a || lib/libgtest.a lib/libgtest_main.a
   FLAGS = -g
   LINK_FLAGS = -static
-  LINK_LIBRARIES = lib/libgtest.a  lib/libgtest_main.a  -lSDL2main  -lSDL2  lib/libgtest.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  LINK_PATH = -LD:/PROGRAMMATION/Library/SDL2-2.0.22/lib/x64
+  LINK_LIBRARIES = lib/libgtest.a  lib/libgtest_main.a  -lSDL2main  -lSDL2_image  -lSDL2  lib/libgtest.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  LINK_PATH = -LD:/PROGRAMMATION/Library/SDL2-2.24.0/lib/x64   -LD:/PROGRAMMATION/Library/SDL2_image-2.6.2/lib/x64
   OBJECT_DIR = ADMotorTests\tests\CMakeFiles\runADMotorTest.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
@@ -917,84 +987,84 @@ build cmake_object_order_depends_target_runADMotorUITest: phony || ADMotorTests/
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/main.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/UITests/main.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADComponent.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADComponent.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\Component\ADComponent.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\Component
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADWindow.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADWindow.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor\ADWindow.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerComponent.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADManagerComponent.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor\ADManagerComponent.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADComposit.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADComposit.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor\ADComposit.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADObject.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADObject.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor\ADObject.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerObject.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADManagerObject.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor\ADManagerObject.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerWindow.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADManagerWindow.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor\ADManagerWindow.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADApplication.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/ADMotor/ADApplication.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor\ADApplication.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\ADMotor
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADTransform.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADTransform.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\Component\ADTransform.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\Component
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADSprite.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/src/Component/ADSprite.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\Component\ADSprite.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\__\__\src\Component
 
 build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/SDLWindowTest.cpp.obj: CXX_COMPILER__runADMotorUITest_Debug D$:/PROGRAMMATION/C++Project/ADMotor/ADMotorTests/UITests/SDLWindowTest.cpp || cmake_object_order_depends_target_runADMotorUITest
   DEP_FILE = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir\SDLWindowTest.cpp.obj.d
   FLAGS = -g -std=gnu++14
-  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.0.22/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
+  INCLUDES = -ID:/PROGRAMMATION/Library/SDL2-2.24.0/include -ID:/PROGRAMMATION/Library/SDL2_image-2.6.2/include -ID:/PROGRAMMATION/C++Project/ADMotor/header
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   OBJECT_FILE_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
 
@@ -1009,8 +1079,8 @@ build ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/SDLWindowTest.cpp.obj
 build ADMotorTests/UITests/runADMotorUITest.exe: CXX_EXECUTABLE_LINKER__runADMotorUITest_Debug ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/main.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADComponent.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADWindow.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerComponent.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADComposit.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADObject.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerObject.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADManagerWindow.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/ADMotor/ADApplication.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADTransform.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/__/__/src/Component/ADSprite.cpp.obj ADMotorTests/UITests/CMakeFiles/runADMotorUITest.dir/SDLWindowTest.cpp.obj
   FLAGS = -g
   LINK_FLAGS = -static
-  LINK_LIBRARIES = -lSDL2main  -lSDL2  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  LINK_PATH = -LD:/PROGRAMMATION/Library/SDL2-2.0.22/lib/x64
+  LINK_LIBRARIES = -lSDL2main  -lSDL2_image  -lSDL2  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  LINK_PATH = -LD:/PROGRAMMATION/Library/SDL2-2.24.0/lib/x64   -LD:/PROGRAMMATION/Library/SDL2_image-2.6.2/lib/x64
   OBJECT_DIR = ADMotorTests\UITests\CMakeFiles\runADMotorUITest.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
@@ -1120,7 +1190,7 @@ build runADMotorUITest.exe: phony ADMotorTests/UITests/runADMotorUITest.exe
 #############################################
 # Folder: D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug
 
-build all: phony ADMotor.exe header/all ADMotorTests/all
+build all: phony ADMotor.exe header/all sprites/all ADMotorTests/all
 
 # =============================================================================
 
@@ -1172,20 +1242,27 @@ build ADMotorTests/tests/all: phony ADMotorTests/tests/runADMotorTest.exe
 build header/all: phony
 
 # =============================================================================
+
+#############################################
+# Folder: D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/sprites
+
+build sprites/all: phony
+
+# =============================================================================
 # Built-in targets
 
 
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../ADMotorTests/CMakeLists.txt ../ADMotorTests/UITests/CMakeLists.txt ../ADMotorTests/lib/googletest-main/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googlemock/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googlemock/cmake/gmock.pc.in ../ADMotorTests/lib/googletest-main/googlemock/cmake/gmock_main.pc.in ../ADMotorTests/lib/googletest-main/googletest/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googletest/cmake/Config.cmake.in ../ADMotorTests/lib/googletest-main/googletest/cmake/gtest.pc.in ../ADMotorTests/lib/googletest-main/googletest/cmake/gtest_main.pc.in ../ADMotorTests/lib/googletest-main/googletest/cmake/internal_utils.cmake ../ADMotorTests/tests/CMakeLists.txt ../CMakeLists.txt ../header/CMakeLists.txt C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeDependentOption.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckCSourceCompiles.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckIncludeFile.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckLibraryExists.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPackageMessage.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPython.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPython/Support.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindThreads.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/GNUInstallDirs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../ADMotorTests/CMakeLists.txt ../ADMotorTests/UITests/CMakeLists.txt ../ADMotorTests/lib/googletest-main/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googlemock/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googlemock/cmake/gmock.pc.in ../ADMotorTests/lib/googletest-main/googlemock/cmake/gmock_main.pc.in ../ADMotorTests/lib/googletest-main/googletest/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googletest/cmake/Config.cmake.in ../ADMotorTests/lib/googletest-main/googletest/cmake/gtest.pc.in ../ADMotorTests/lib/googletest-main/googletest/cmake/gtest_main.pc.in ../ADMotorTests/lib/googletest-main/googletest/cmake/internal_utils.cmake ../ADMotorTests/tests/CMakeLists.txt ../CMakeLists.txt ../header/CMakeLists.txt ../sprites/CMakeLists.txt C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeDependentOption.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckCSourceCompiles.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckIncludeFile.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckLibraryExists.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPackageMessage.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPython.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPython/Support.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindThreads.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/GNUInstallDirs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../ADMotorTests/CMakeLists.txt ../ADMotorTests/UITests/CMakeLists.txt ../ADMotorTests/lib/googletest-main/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googlemock/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googlemock/cmake/gmock.pc.in ../ADMotorTests/lib/googletest-main/googlemock/cmake/gmock_main.pc.in ../ADMotorTests/lib/googletest-main/googletest/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googletest/cmake/Config.cmake.in ../ADMotorTests/lib/googletest-main/googletest/cmake/gtest.pc.in ../ADMotorTests/lib/googletest-main/googletest/cmake/gtest_main.pc.in ../ADMotorTests/lib/googletest-main/googletest/cmake/internal_utils.cmake ../ADMotorTests/tests/CMakeLists.txt ../CMakeLists.txt ../header/CMakeLists.txt C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeDependentOption.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckCSourceCompiles.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckIncludeFile.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckLibraryExists.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPackageMessage.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPython.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPython/Support.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindThreads.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/GNUInstallDirs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake: phony
+build ../ADMotorTests/CMakeLists.txt ../ADMotorTests/UITests/CMakeLists.txt ../ADMotorTests/lib/googletest-main/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googlemock/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googlemock/cmake/gmock.pc.in ../ADMotorTests/lib/googletest-main/googlemock/cmake/gmock_main.pc.in ../ADMotorTests/lib/googletest-main/googletest/CMakeLists.txt ../ADMotorTests/lib/googletest-main/googletest/cmake/Config.cmake.in ../ADMotorTests/lib/googletest-main/googletest/cmake/gtest.pc.in ../ADMotorTests/lib/googletest-main/googletest/cmake/gtest_main.pc.in ../ADMotorTests/lib/googletest-main/googletest/cmake/internal_utils.cmake ../ADMotorTests/tests/CMakeLists.txt ../CMakeLists.txt ../header/CMakeLists.txt ../sprites/CMakeLists.txt C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCXXInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeDependentOption.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeGenericSystem.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeRCInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckCSourceCompiles.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckIncludeFile.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/CheckLibraryExists.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-C.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Compiler/GNU.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPackageMessage.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPython.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindPython/Support.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/FindThreads.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/GNUInstallDirs.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-C.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows-windres.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/Windows.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake C$:/Users/user/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/222.3739.54/bin/cmake/win/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeRCCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake: phony
 
 
 #############################################

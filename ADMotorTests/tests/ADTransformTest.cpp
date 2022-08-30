@@ -5,7 +5,7 @@
 #include "Component/ADTransform.h"
 
 TEST(ADTransformTest, init_and_delete){
-    ADTransformTest* adt = new ADTransformTest();
+    ADTransform* adt = new ADTransform();
     adt->init();
     EXPECT_TRUE(adt != nullptr);
     delete adt;
@@ -13,7 +13,7 @@ TEST(ADTransformTest, init_and_delete){
 }
 
 TEST(ADTransformTest, get_and_set){
-    ADTransformTest adt;
+    ADTransform adt;
     adt.init();
 
     EXPECT_TRUE(adt.getPostion().x == 0);

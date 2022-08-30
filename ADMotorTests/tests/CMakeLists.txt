@@ -11,4 +11,4 @@ message("end foreach")
 add_executable(runADMotorTest ${ADSOURCE}
         ADComponentTest.cpp ADManagerComponentTest.cpp ComponentTest.h ADManagerObjectTest.cpp RandomTest.cpp ADTransformTest.cpp)
 
-target_link_libraries(runADMotorTest gtest gtest_main SDL2main SDL2)
+target_link_libraries(runADMotorTest gtest gtest_main SDL2main SDL2_image SDL2)

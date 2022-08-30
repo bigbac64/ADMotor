@@ -56,12 +56,13 @@ Point3D ADTransform::getRotation() {
  **********************************************************************************************************************/
 void ADTransform::reset() {
     position = Point3D{0,0,0};
-    scale = Point3D{0,0,0};
+    scale = Point3D{1,1,1};
     rotation = Point3D{0,0,0};
 }
 
 
 void ADTransform::init() {
+    cout << "never init" <<endl;
     reset();
 }
 

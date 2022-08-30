@@ -9,4 +9,4 @@ message("end foreach")
 
 add_executable(runADMotorUITest  main.cpp ${ADSOURCE} SDLWindowTest.cpp SDLWindowTest.h)
 
-target_link_libraries(runADMotorUITest SDL2main SDL2)
+target_link_libraries(runADMotorUITest SDL2main SDL2_image SDL2)

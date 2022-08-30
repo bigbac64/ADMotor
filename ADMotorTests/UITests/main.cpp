@@ -7,7 +7,8 @@ int main(int argc, char **argv) {
 
     ADWindowTest();
     ADWindowManagerTest();
-    ADApplicationTest(true);
+    ADApplicationTest(false);
+    rotationTest(true);
 
     return 0;
 }

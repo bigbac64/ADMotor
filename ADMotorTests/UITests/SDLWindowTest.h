@@ -7,9 +7,12 @@
 
 
 #include "ADMotor/ADApplication.h"
+#include "Component/ADTransform.h"
+#include "Component/ADSprite.h"
 
 void ADWindowTest();
 void ADWindowManagerTest();
 void ADApplicationTest(bool run);
+void rotationTest(bool run);
 
 #endif //ADMOTOR_SDLWINDOWTEST_H

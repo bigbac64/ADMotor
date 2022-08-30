@@ -21,7 +21,7 @@ public:
     vector<ADComponent*> getComponents()const;
     map<string, ADComponent*> getComponentsMap() const;
 
-    template<class T> ADComponent *getComponent() const;
+    template<class T> T           *getComponent() const;
     template<class T> bool         addComponent();
     template<class T> bool         removeComponent();
     template<class T> bool         haveComponent() const;
@@ -47,7 +47,7 @@ public:
  * @return Le composant appelé
  **********************************************************************************************************************/
 template<class T>
-ADComponent *ADManagerComponent::getComponent() const{
+T *ADManagerComponent::getComponent() const{
     string classname = typeid(T).name();
 
     // si la class n'est pas dans components
@@ -56,7 +56,7 @@ ADComponent *ADManagerComponent::getComponent() const{
         return nullptr;
     }
 
-    return components.find(classname)->second;
+    return dynamic_cast<T*>(components.find(classname)->second) ;
 }
 
 /**
@@ -100,6 +100,7 @@ bool ADManagerComponent::addComponent() {
 
     component->setManager(this);
     components[classname] = component;
+    component->init();
 
     return true;
 };
@@ -146,6 +147,7 @@ bool ADManagerComponent::removeComponent() {
     }
 
     components.erase(classname);
+    component->close();
     delete component;
     return true;
 };

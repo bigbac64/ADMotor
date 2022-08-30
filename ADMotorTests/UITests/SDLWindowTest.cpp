@@ -102,3 +102,49 @@ void ADApplicationTest(bool run){
 
     delete adap;
 }
+
+class TestSprite : public ADSprite{
+private:
+    bool translate = false;
+    float speed = 0;
+public:
+    void event(SDL_Event* evt) override{
+        if(evt->type == SDL_KEYDOWN && evt->key.keysym.sym == SDLK_a) {
+            cout << "keydowned" << endl;
+            loadSprite("D:\\PROGRAMMATION\\C++Project\\ADMotor\\sprites\\test.png");
+        }
+
+        if(evt->type == SDL_KEYDOWN && evt->key.keysym.sym == SDLK_UP) {
+            translate = true;
+        }
+
+        if(evt->type == SDL_KEYUP && evt->key.keysym.sym == SDLK_UP) {
+            translate = false;
+        }
+    }
+
+    void update() override{
+        if(translate) {
+            Point3D rot = getManager()->getComponent<ADTransform>()->getRotation();
+            speed += 0.1;
+            rot.z += speed;
+            getManager()->getComponent<ADTransform>()->setRotation(rot);
+        }
+    }
+};
+
+void rotationTest(bool run){
+    ADApplication *adap = ADApplication::getApplication();
+    ADWindow *adw = adap->makeWindow(600,400);
+
+    ADObject *ado = adw->makeObject("test");
+    ado->addComponent<ADTransform>();
+    ado->getComponent<ADTransform>()->setPostion(Point3D{110,110,0});
+    ado->getComponent<ADTransform>()->setRotation(Point3D{0,0,10});
+    ado->addComponent<TestSprite>();
+
+    if(run)
+        adap->run();
+
+    delete adap;
+}

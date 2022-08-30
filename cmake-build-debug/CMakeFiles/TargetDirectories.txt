@@ -11,6 +11,12 @@ D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/header/CMakeFiles/list_ins
 D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/header/CMakeFiles/install.dir
 D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/header/CMakeFiles/install/local.dir
 D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/header/CMakeFiles/install/strip.dir
+D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/sprites/CMakeFiles/edit_cache.dir
+D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/sprites/CMakeFiles/rebuild_cache.dir
+D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/sprites/CMakeFiles/list_install_components.dir
+D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/sprites/CMakeFiles/install.dir
+D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/sprites/CMakeFiles/install/local.dir
+D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/sprites/CMakeFiles/install/strip.dir
 D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/ADMotorTests/CMakeFiles/edit_cache.dir
 D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/ADMotorTests/CMakeFiles/rebuild_cache.dir
 D:/PROGRAMMATION/C++Project/ADMotor/cmake-build-debug/ADMotorTests/CMakeFiles/list_install_components.dir
